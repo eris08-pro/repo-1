@@ -4,3 +4,5 @@ MAKANAN KESUKAAN
 -nasi goreng
 -soto
 -sate
+-kangkung
+-capcai
