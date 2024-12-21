@@ -1,3 +1,5 @@
-  MAKANAN KESUKAAN
-  -ayam pecel 
-  -telor
+MAKANAN KESUKAAN
+-ayam pecel 
+-telor
+-nasi goreng
+-soto
