@@ -3,3 +3,4 @@ MAKANAN KESUKAAN
 -telor
 -nasi goreng
 -soto
+-sate
